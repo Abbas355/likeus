@@ -122,3 +122,11 @@ Future<bool> onLikeButtonTapped(bool isLiked) async {
 | `countPosition`             | `CountPosition`         | Position of the count relative to the icon (`top`, `right`, `bottom`, `left`)              | `CountPosition.right`              |
 | `countDecoration`           | `Decoration`            | Custom decoration (background, border, etc.) for the count widget                          | `null`                             |
 | `postFrameCallback`         | `Function(LikeButtonState)` | Called on first frame render, gives access to the internal `LikeButtonState`         | `null`                             |
+
+---
+
+## 👨‍💻 Developer
+
+Developed and maintained by **Muhammad Abbas**,  
+Senior Flutter Developer at [MIT PROGRAMMER LTD](https://mitprogrammer.com)  
+🔗 [GitHub](https://github.com/Abbas355)

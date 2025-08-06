@@ -24,7 +24,7 @@ Add to your `pubspec.yaml`:
 dependencies:
   likeus: ^1.0.0
 
-🚀 How to Use LikeUs
+###  🚀 How to Use LikeUs
 ✅ Basic Usage (Default Behavior)
 By default, the LikeButton uses the heart icon (Icons.favorite) with built-in animation:
 

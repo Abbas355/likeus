@@ -1,8 +1,14 @@
 name: likeus
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
-
+description: A Flutter package to create a Twitter-like heart animation button for likes, reactions, or favorites.
+version: 1.0.0
+homepage: https://mitprogrammer.com
+repository: https://github.com/Abbas355/likeus
+topics:
+  - animation
+  - button
+  - like
+  - heart
+  - social
 environment:
   sdk: ^3.8.1
   flutter: ">=1.17.0"
